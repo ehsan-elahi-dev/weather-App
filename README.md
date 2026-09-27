@@ -8,7 +8,7 @@ A modern and responsive weather dashboard built with Vanilla JavaScript, Tailwin
 
 ## 🚀 Live Demo
 
-[**View Live Demo →**](YOUR_LIVE_SITE_URL)
+[**View Live Demo →**](https://ehsanellahi1385-commits.github.io/weather-App/)
 
 ## ✨ Features
 
